@@ -32,4 +32,4 @@ This repo contains my work on the PortSwigger Web Security Academy lab called **
 - Why developers need proper access control to secure applications.  
 ---
 
-Would you like me to also add a short **“How to run/view”** section (like instructions for opening the PDF or browsing the screenshots) so anyone visiting your repo knows exactly how to use the files?
+Would you like me to also add a short **“How to run/view”** section (like instructions for opening the PDF or browsi

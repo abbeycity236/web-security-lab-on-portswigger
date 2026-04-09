@@ -28,8 +28,6 @@ This repo contains my work on the PortSwigger Web Security Academy lab called **
 ## What I Learned
 - How unprotected admin panels can be exploited.  
 - Why it’s important to check source code for hidden functionality.  
-- How privilege escalation works in practice.  
-- Why developers need proper access control to secure applications.  
----
-
-Would you like me to also add a short **“How to run/view”** section (like instructions for opening the PDF or browsi
+- How privilege escalation works in practice.
+- Why developers need proper access control to secure applications.
+  
